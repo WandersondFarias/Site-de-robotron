@@ -53,7 +53,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-    <a href="https://github.com/wandersondefariasprogramador" >LINK-GITHUB</a>
+   
 
   </tr>
 </table>
